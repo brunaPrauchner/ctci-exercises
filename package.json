@@ -1,0 +1,19 @@
+{
+  "name": "ctci-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunaPrauchner/ctci-exercises.git"
+  },
+  "author": "Bruna Prauchner and Israel Deorce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunaPrauchner/ctci-exercises/issues"
+  },
+  "homepage": "https://github.com/brunaPrauchner/ctci-exercises#readme"
+}
